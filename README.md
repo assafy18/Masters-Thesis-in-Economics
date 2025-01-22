@@ -1,5 +1,5 @@
 # School Violence: Academic Impacts and Underlying Mechanisms
-This repository presents the most recent draft of my thesis project for the MA in Economics at the Hebrew University of Jerusalem. My supervisor is Professor Victor Lavy.
+This repository presents my thesis project for the MA in Economics at the Hebrew University of Jerusalem. My supervisor is Professor Victor Lavy.
 
 *Summary*: This paper examines the impact of exposure to violence on academic achievement, focusing on students with a history of violent behavior. Exploiting idiosyncratic variations in the exposure
 to new violent classmates during the transition from elementary to middle school, the study finds that a higher proportion of violent peers negatively affects performance, with girls being
